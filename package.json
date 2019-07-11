@@ -1,0 +1,11 @@
+{
+  "name": "zegbot",
+  "version": "1.0.0",
+  "description": "awesome cool bot that helps make your server",
+  "main": "Zeg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zeglexa",
+  "license": "ISC"
+}
